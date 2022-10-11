@@ -1,4 +1,5 @@
-# game-one
+# Just Hang
+It's like hangman, without the hanging man.
 
 ## Project setup
 ```
